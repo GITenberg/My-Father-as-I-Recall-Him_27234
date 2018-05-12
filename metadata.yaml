@@ -1,0 +1,30 @@
+_repo: My-Father-as-I-Recall-Him_27234
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27234-h/images/covers.jpg
+creator:
+  author:
+    agent_name: Dickens, Mamie
+    alias: Dickens, Mary
+    birthdate: 1838
+    deathdate: 1896
+    gutenberg_agent_id: '31615'
+    url: http://www.gutenberg.org/2009/agents/31615
+description: ''
+gutenberg_issued: '2008-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Fathers -- England -- Biography'
+- !lcc 'PR'
+- !lcsh 'Dickens, Charles, 1812-1870 -- Family'
+- !lcsh 'Novelists, English -- 19th century -- Family relationships'
+title: My Father as I Recall Him
+url: http://www.gutenberg.org/ebooks/27234
